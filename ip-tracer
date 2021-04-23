@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
+# Author :- anshif
 # Date :- 10/10/2018
 
 case "$1" in
